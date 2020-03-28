@@ -2,3 +2,8 @@ D:\source\repos\TinybotInstaller\CLITools\bin\Debug\CLITools.dll
 D:\source\repos\TinybotInstaller\CLITools\bin\Debug\CLITools.pdb
 D:\source\repos\TinybotInstaller\CLITools\obj\Debug\CLITools.dll
 D:\source\repos\TinybotInstaller\CLITools\obj\Debug\CLITools.pdb
+D:\source\repos\CLITools\CLITools\bin\Debug\CLITools.dll
+D:\source\repos\CLITools\CLITools\bin\Debug\CLITools.pdb
+D:\source\repos\CLITools\CLITools\obj\Debug\CLITools.csprojAssemblyReference.cache
+D:\source\repos\CLITools\CLITools\obj\Debug\CLITools.dll
+D:\source\repos\CLITools\CLITools\obj\Debug\CLITools.pdb
